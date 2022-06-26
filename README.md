@@ -35,6 +35,7 @@ Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 ```python
     Developed by: Prashethaa R
     Register No:212220230036
+    
 from utils import *
 from logic import *
 char=['P','B','W','S']
